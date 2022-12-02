@@ -1,0 +1,9 @@
+# npm
+.npm/
+
+# VSCode
+.vscode/
+
+# Generated
+build/
+export/
